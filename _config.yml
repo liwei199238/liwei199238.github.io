@@ -12,7 +12,7 @@ github_repo: "https://github.com/liwei199328/liwei199238.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The people can achieve their goals because they believe they can ."
-sidebar-avatar: /img/LEVI.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/LEVI .jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
